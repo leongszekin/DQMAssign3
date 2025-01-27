@@ -7,7 +7,7 @@ By: Sijian (Cindy) Liang
 
 ## Heart Attack Risk Prediction Dataset
 
-__Dataset Overview__
+__1. Dataset Overview__
 
 The Heart Attack Risk Prediction Dataset is a dataset from Kaggle (https://www.kaggle.com/datasets/arifmia/heart-attack-risk-dataset). 
 
@@ -19,12 +19,12 @@ The Heart Attack Risk Prediction Dataset is a dataset from Kaggle (https://www.k
 
 Details can be found in the folder.
 
-__Graphs of Dataset and Data Analysis__
+__2. Graphs of Dataset and Data Analysis__
 
 Following the "Data Summary" section, five analyses were conducted to provide insights into the dataset. While heart attack risk may be influenced by various factors, these analyses focus on basic observations and patterns, without delving into causal relationships between specific elements and heart attack risks.
 
-__How to Use__
+__3. How to Use__
 
-For data analysts, you can refer to the data cleaning and data analyzing steps.
+Data analysts can refer to the steps for cleaning and analyzing data.
 
-For health care staff, you can read the graphs and tables to know the related factors and data of heart attack risks.
+Healthcare staff can read the graphs and tables to learn about the related factors and data on heart attack risks.
